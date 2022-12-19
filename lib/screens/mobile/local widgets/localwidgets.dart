@@ -1,0 +1,1 @@
+//This folder contains the widgets that are used only once in the app for the mobile screen.

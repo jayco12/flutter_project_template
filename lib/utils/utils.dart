@@ -1,0 +1,1 @@
+//the utils folder contains the functions that are used throughpout the app. E.g validation 

@@ -1,0 +1,1 @@
+//The serice folder contains all the interaactions of the app with services outside the app.

@@ -1,0 +1,1 @@
+//The model folder contains collections of data for organizing code
