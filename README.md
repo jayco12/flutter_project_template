@@ -4,13 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+If you want to have a proper folder structure and easily readable and understandable, this is for you
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A flutter project to give the proper structure and layout for flutter project. To be a good developer, your projects have to be structured properly to enable easy readability and understanding. when dealing with small projects or projects that you are the only developer, it might not be really necessaryt o use a proper file structure. But when there are multiple developers or it is a large project. The folder structure is highly expedient
